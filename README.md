@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Subhranshu-sekhar-Patra
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning B-Tech 
-  - THis is my first git repository
+#Subhranshu-sekhar-Patra
+THis is my first git repository
+<br>
+I’m interested in Data Science
+<br>
+I’m currently learning B-Tech 
 
 <!---
 Subhranshu-sekhar-Patra/Subhranshu-sekhar-Patra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
